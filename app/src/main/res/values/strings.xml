@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Conversions Units -->
+    <string name="length">Length</string>
+    <string name="time">Time</string>
+    <string name="energy">Energy</string>
+    <string name="power">Power</string>
+    <string name="mass">Mass</string>
+    <string name="force">Force</string>
+    <string name="volume">Volume</string>
+    <string name="area">Area</string>
+
+    <!-- Distance -->
+    <string name="kilometre">Kilometre</string>
+    <string name="mile">Miles</string>
+    <string name="metre">Metre</string>
+    <string name="centimetre">Centimetre (cm)</string>
+    <string name="millimetre">Millimetre (mm)</string>
+    <string name="micrometre">Micrometre</string>
+    <string name="nanometre">Nanometre</string>
+    <string name="yard">Yard</string>
+    <string name="feet">Feet</string>
+    <string name="inch">Inch</string>
+    <string name="nautical_mile">Nautical Mile</string>
+    <string name="furlong">Furlong</string>
+    <string name="light_year">Light Year</string>
+
+    <!-- Time -->
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="week">Week</string>
+    <string name="day">Day</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="second">Second</string>
+    <string name="millisecond">Millisecond</string>
+    <string name="nanosecond">Nanosecond</string>
+    <string name="fortnight">FORTNIGHT</string>
+
+    <!-- Energy -->
+    <string name="joule">Joule</string>
+    <string name="kilojoule">Kilojoule</string>
+    <string name="calorie">Calorie</string>
+    <string name="kilocalorie">Kilocalorie</string>
+    <string name="btu">BTU</string>
+    <string name="ft_lbF">ft-lbf</string>
+    <string name="in_lbF">in-lbf</string>
+    <string name="kilowatt_hour">Kilowatt-Hour</string>
+    <string name="electron_volt">eV</string>
+    <string name="boe">Boe</string>
+
+    <!-- Power -->
+    <string name="watt">Watt</string>
+    <string name="kilowatt">Kilowatt</string>
+    <string name="megawatt">Megawatt</string>
+    <string name="hp">HP (metric)</string>
+    <string name="hp_uk">HP (mechanical)</string>
+    <string name="ft_lbf_s">ft-lbf/second</string>
+    <string name="calorie_s">Calorie/second</string>
+    <string name="btu_s">BTU/second</string>
+    <string name="kva">kV-A</string>
+    <string name="joules_per_second">Joules_Per_Second</string>
+
+    <!-- Mass/Weight -->
+    <string name="kilogram">Kilogram</string>
+    <string name="pound">Pound</string>
+    <string name="gram">Gram</string>
+    <string name="milligram">Milligram</string>
+    <string name="ounce">Ounce</string>
+    <string name="grain">Grain</string>
+    <string name="stone">Stone</string>
+    <string name="metric_ton">Ton (metric)</string>
+    <string name="short_ton">Ton (US/short)</string>
+    <string name="long_ton">Ton (UK/long)</string>
+    <string name="slug">Slug</string>
+
+    <!-- Force -->
+    <string name="newton">Newton</string>
+    <string name="pound_f">Pound_f</string>
+    <string name="ounce_f">Ounce_f</string>
+    <string name="dyne">dyne</string>
+    <string name="kilopond">kilopond</string>
+    <string name="poundal">poundal</string>
+
+    <!-- Volume -->
+    <string name="teaspoon">Teaspoon</string>
+    <string name="tablespoon">Tablespoon</string>
+    <string name="cup">Cup</string>
+    <string name="fluid_ounce">Fluid Ounce (US)</string>
+    <string name="quart">Quart (US)</string>
+    <string name="pint">Pint (US)</string>
+    <string name="gallon">Gallon (US)</string>
+    <string name="barrel">Barrel (US)</string>
+    <string name="fluid_ounce_uk">Fluid Ounce (UK)</string>
+    <string name="quart_uk">Quart (UK)</string>
+    <string name="pint_uk">Pint (UK)</string>
+    <string name="gallon_uk">Gallon (UK)</string>
+    <string name="barrel_uk">Barrel (UK)</string>
+    <string name="millilitre">Millilitre</string>
+    <string name="litre">Litre</string>
+    <string name="cubic_cm">Cubic cm</string>
+    <string name="cubic_m">Cubic Metre</string>
+    <string name="cubic_inch">Cubic Inch</string>
+    <string name="cubic_foot">Cubic Foot</string>
+    <string name="cubic_yard">Cubic Yard</string>
+    <string name="hoppus">Hoppus</string>
+
+    <!-- Area -->
+    <string name="sq_kilometre">Sq Kilometre</string>
+    <string name="sq_metre">Sq Metre</string>
+    <string name="sq_centimetre">Sq Centimetre</string>
+    <string name="hectare">Hectare</string>
+    <string name="sq_mile">Sq Mile</string>
+    <string name="sq_yard">Sq Yard</string>
+    <string name="sq_foot">Sq Foot</string>
+    <string name="sq_inch">Sq Inch</string>
+    <string name="acre">Acre</string>
+    <string name="are">Are</string>
+
+
+</resources>
